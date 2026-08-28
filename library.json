@@ -1,0 +1,158 @@
+{
+  "videos": [
+    {
+      "id": "0800192625864d3e9bb9549ae590db00",
+      "video_url": "/generated/vibify_5c5c917ace504095afe0a931180a363f.mp4",
+      "filename": "vibify_5c5c917ace504095afe0a931180a363f.mp4",
+      "product_name": "water bottle ",
+      "frame_size": "Square 1:1",
+      "duration": 5,
+      "audio": "Premium ✨",
+      "shots": [
+        {
+          "cameraMotion": "Slow pan left",
+          "productMovement": "Static",
+          "lighting": "Studio soft",
+          "effect": "little snows falling",
+          "background": "inside a cosy bakery with winter and lanterns outside ",
+          "backgroundMotion": "",
+          "textOnVideo": "LIMITED EDITION!",
+          "creativeDirection": ""
+        }
+      ],
+      "saved_at": "2026-08-28 00:56:07"
+    },
+    {
+      "id": "e5e1809dbfae4a749ead95301a947a24",
+      "video_url": "/generated/vibify_d54873b307c34ae697b6e790dd332ee7.mp4",
+      "filename": "vibify_d54873b307c34ae697b6e790dd332ee7.mp4",
+      "product_name": "water bottle ",
+      "frame_size": "Square 1:1",
+      "duration": 5,
+      "audio": "Premium ✨",
+      "shots": [
+        {
+          "cameraMotion": "Slow pan left",
+          "productMovement": "Static",
+          "lighting": "Studio soft",
+          "effect": "little snows falling",
+          "background": "inside a cosy bakery with winter and lanterns outside ",
+          "backgroundMotion": "",
+          "textOnVideo": "LIMITED EDITION!",
+          "creativeDirection": ""
+        }
+      ],
+      "saved_at": "2026-08-28 00:49:04"
+    },
+    {
+      "id": "01648b03a8084567a05d17dac53f6dcd",
+      "video_url": "/generated/vibify_ee6833860d2743efabde97555fc9aae3.mp4",
+      "filename": "vibify_ee6833860d2743efabde97555fc9aae3.mp4",
+      "product_name": "water bottle",
+      "frame_size": "Square 1:1",
+      "duration": 5,
+      "audio": "Cinematic 🎬",
+      "shots": [
+        {
+          "cameraMotion": "Slow pan left",
+          "productMovement": "Static",
+          "lighting": "Studio soft",
+          "effect": "",
+          "background": "",
+          "backgroundMotion": "",
+          "textOnVideo": "",
+          "creativeDirection": ""
+        }
+      ],
+      "saved_at": "2026-08-28 00:36:16"
+    },
+    {
+      "id": "18f80687d2c14768acc69f73d1ec3cc6",
+      "video_url": "/generated/vibify_49828fc8151347659823b0ebd34d7a8d.mp4",
+      "filename": "vibify_49828fc8151347659823b0ebd34d7a8d.mp4",
+      "product_name": "water bottle",
+      "frame_size": "Square 1:1",
+      "duration": 5,
+      "audio": "Cinematic 🎬",
+      "shots": [
+        {
+          "cameraMotion": "Slow pan left",
+          "productMovement": "Static",
+          "lighting": "Studio soft",
+          "effect": "",
+          "background": "",
+          "backgroundMotion": "",
+          "textOnVideo": "",
+          "creativeDirection": ""
+        }
+      ],
+      "saved_at": "2026-08-28 00:29:37"
+    },
+    {
+      "id": "bd628c7379b24fb6a9490c0781af62f3",
+      "video_url": "/generated/vibify_15607cacae5447a0ab63d0556c7da2ff.mp4",
+      "filename": "vibify_15607cacae5447a0ab63d0556c7da2ff.mp4",
+      "product_name": "water bottle ",
+      "frame_size": "Square 1:1",
+      "duration": 5,
+      "audio": "Premium ✨",
+      "shots": [
+        {
+          "cameraMotion": "Slow pan left",
+          "productMovement": "Slow rotate",
+          "lighting": "Studio soft",
+          "effect": "little snows falling",
+          "background": "inside a cosy bakery with winter and lanterns outside ",
+          "backgroundMotion": "",
+          "textOnVideo": "LIMITED EDITION!",
+          "creativeDirection": ""
+        }
+      ],
+      "saved_at": "2026-08-28 00:08:07"
+    },
+    {
+      "id": "d6c6a46497b242d2bb98aa6afb18c729",
+      "video_url": "/generated/vibify_fc6cb7eb96104720b3cd83fc5494aba4.mp4",
+      "filename": "vibify_fc6cb7eb96104720b3cd83fc5494aba4.mp4",
+      "product_name": "water bottle ",
+      "frame_size": "Square 1:1",
+      "duration": 5,
+      "audio": "Premium ✨",
+      "shots": [
+        {
+          "cameraMotion": "Slow pan left",
+          "productMovement": "Static",
+          "lighting": "Studio soft",
+          "effect": "",
+          "background": "",
+          "backgroundMotion": "",
+          "textOnVideo": "",
+          "creativeDirection": ""
+        }
+      ],
+      "saved_at": "2026-08-27 23:58:39"
+    },
+    {
+      "id": "0b5a7fa839ba4c39abc992acb44d876e",
+      "video_url": "/generated/vibify_2be299a7a7c14228a410a274cd1cd196.mp4",
+      "filename": "vibify_2be299a7a7c14228a410a274cd1cd196.mp4",
+      "product_name": "water bottle ",
+      "frame_size": "Square 1:1",
+      "duration": 5,
+      "audio": "Cinematic 🎬",
+      "shots": [
+        {
+          "cameraMotion": "Slow pan left",
+          "productMovement": "Static",
+          "lighting": "Studio soft",
+          "effect": "",
+          "background": "",
+          "backgroundMotion": "",
+          "textOnVideo": "",
+          "creativeDirection": ""
+        }
+      ],
+      "saved_at": "2026-08-27 22:20:20"
+    }
+  ]
+}

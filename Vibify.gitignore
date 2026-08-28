@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment / secrets
+.env
+.env.*
+
+# Generated files
+generated_videos/
+outputs/
+temp/
+tmp/
+
+# User uploads
+uploads/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
