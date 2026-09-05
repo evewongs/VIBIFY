@@ -140,7 +140,7 @@ AUDIO_WORKFLOW_FILE = (
 # COMFYUI
 # =============================================================================
 
-COMFYUI_HOST = "100.95.194.96"
+COMFYUI_HOST = "127.0.0.1"
 COMFYUI_PORT = 8188
 
 COMFYUI_URL = (
