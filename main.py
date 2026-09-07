@@ -1,3 +1,4 @@
+
 from pathlib import Path
 import base64
 import hashlib
@@ -12,6 +13,10 @@ import time
 import subprocess
 import shutil
 from typing import Any
+
+from dotenv import load_dotenv
+
+load_dotenv()
 
 import requests
 
@@ -51,14 +56,6 @@ SESSION_DAYS = 30
 GUEST_FREE_TOKENS = 2
 PASSWORD_ITERATIONS = 310_000
 
-# Optional Google OAuth credentials. The email/password account system works
-# without these. Set both environment variables before enabling Google login.
-GOOGLE_CLIENT_ID = os.getenv("GOOGLE_CLIENT_ID", "").strip()
-GOOGLE_CLIENT_SECRET = os.getenv("GOOGLE_CLIENT_SECRET", "").strip()
-GOOGLE_REDIRECT_URI = os.getenv(
-    "GOOGLE_REDIRECT_URI",
-    "http://localhost:8000/api/auth/google/callback",
-).strip()
 
 WORKFLOW_DIR = (
     BASE_DIR /
