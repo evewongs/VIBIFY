@@ -1,0 +1,42 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated files
+uploads/
+outputs/
+
+# ComfyUI generated/local files
+ComfyUI/output/
+ComfyUI/temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+.env
+__pycache__/
+*.pyc
+vibify.db
+uploads/
+outputs/
